@@ -28,9 +28,19 @@ Co-wrote and designed a direct mail campaign that raised over $120K and reached 
 - [Squalane Benefits](https://bitetoothpastebits.com/blogs/blog/squalane-benefits)
 
 **[Website Copy – Ursa Consultants](https://www.ursaconsultants.com/)**  
-Wrote website copy, managed WordPress backend, and contributed to creative direction.
+Wrote website copy, managed WordPress backend, and contributed to creative direction (including appearing in costume for a brand campaign).
 
----
+**[Kartra Site – Clear Path Methodology](https://clearpath.kartra.com/page/N6L18)**  
+Built a multi-tiered course landing page in Kartra, including structure, copy editing, and UX flow to support conversions and user clarity.
+
+**[eBook – Clear Path Methodology](https://payhip.com/b/xDC2y)**  
+Co-designed layout, structure, and visual direction for a client-facing eBook aligned with the Clear Path course series.
+
+**[Instagram Reel – Zander Media](https://www.instagram.com/robinpzander/reel/CjYmdkWAH9P/)**  
+Led concept development for this short-form video, supporting founder brand narrative and high organic engagement.
+
+**[Instagram Reel – Zander Media](https://www.instagram.com/p/CrRpzfPAEAA/)**  
+Contributed to content strategy and tone for this performance-driven reel geared toward startup founders.
 
 ## 💻 Technical Projects
 
@@ -44,7 +54,5 @@ React-based journaling app with auth, category filters, and full CRUD functional
 Card-matching game built with vanilla JavaScript to practice logic, timers, and responsive UI.
 
 ---
-
-
 
 
