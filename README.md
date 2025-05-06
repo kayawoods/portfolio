@@ -40,7 +40,7 @@ Co-designed layout, structure, and visual direction for a client-facing eBook al
 Led concept development for this short-form video, supporting founder brand narrative and high organic engagement.
 
 **[Instagram Reel – Zander Media](https://www.instagram.com/p/CrRpzfPAEAA/)**  
-Contributed to content strategy and tone for this performance-driven reel geared toward startup founders.
+Contributed to content strategy and tone for this performance-driven reel.
 
 ## 💻 Technical Projects
 
