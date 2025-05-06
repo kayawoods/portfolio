@@ -40,6 +40,11 @@ Journaling app built with Django and Python. Generates tone-based responses with
 **[Enlight](https://enlight-daily.netlify.app/)**  
 React-based journaling app with auth, category filters, and full CRUD functionality.
 
+**[Emoji Memory Game](https://kayawoods.github.io/memory-game/)**  
+Card-matching game built with vanilla JavaScript to practice logic, timers, and responsive UI.
+
 ---
+
+
 
 
