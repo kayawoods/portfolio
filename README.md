@@ -28,7 +28,7 @@ Co-wrote and designed a multi-channel fundraising appeal shared with tens of tho
 - [Squalane Benefits](https://bitetoothpastebits.com/blogs/blog/squalane-benefits)
 
 **[Website Copy – Ursa Consultants](https://www.ursaconsultants.com/)**  
-Wrote website copy, managed WordPress backend, and contributed to creative direction (including appearing in costume for a brand campaign).
+Wrote website copy, managed WordPress backend, and contributed to creative direction (including appearing in bear costume for a brand campaign).
 
 **[Kartra Site – Clear Path Methodology](https://clearpath.kartra.com/page/N6L18)**  
 Built a multi-tiered course landing page in Kartra, including structure, copy editing, and UX flow to support conversions and user clarity.
