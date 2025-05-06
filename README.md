@@ -17,7 +17,7 @@ Hands-on tips and examples for writing clearer, more powerful AI prompts—from 
 ## 📣 Campaigns & Content
 
 **[Adopt-a-Family Campaign – Raphael House](https://www.raphaelhouse.org/aaf/)**  
-Led digital content strategy and execution for an annual holiday giving campaign supporting Bay Area families experiencing homelessness.
+Led digital content strategy and execution for an annual holiday giving campaign supporting Bay Area families experiencing homelessness. 
 
 **[Year-End Appeal – Raphael House](https://www.raphaelhouse.org/general/the-future-of-raphael-house-building-partnerships-achieving-milestones/)**  
 Co-wrote and designed a multi-channel fundraising appeal shared with tens of thousands of supporters across print and digital.
