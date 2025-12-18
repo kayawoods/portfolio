@@ -15,6 +15,8 @@ Hands-on tips and examples for writing clearer, more powerful AI prompts—from 
 ---
 
 ## 📣 Campaigns & Content
+**[PyTorch Lightning — LinkedIn Content (June–November)](https://www.linkedin.com/company/pytorch-lightning/posts/?feedView=all)**  
+Led and produced all Lightning LinkedIn content from June through November, translating advanced AI and developer concepts into clear, engaging posts for a technical audience.
 
 **[Adopt-a-Family Campaign – Raphael House](https://www.raphaelhouse.org/aaf/)**  
 Led digital content strategy and execution for an annual holiday giving campaign supporting Bay Area families experiencing homelessness. 
