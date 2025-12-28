@@ -71,7 +71,7 @@ Directed and contributed to the creation of a high-performing personal brand ree
 **[Clear Path Methodology — eBook](https://payhip.com/b/xDC2y)**  
 Designed and supported the development of a long-form eBook translating the Clear Path methodology into a structured, accessible resource for clients. Led content organization, layout, and visual structure, and collaborated on shaping how the material was presented for clarity and usability. 
 
-**[Clear Path Methodology — Printed Book](https://www.amazon.com/)**  
+**[Clear Path Methodology — Printed Book](https://www.amazon.com/Project-Managers-Companion-Real-World-Challenges/dp/B0FPRMQLQN)**  
 Supported the development of a printed companion book, adapting digital content for physical format and ensuring consistency in structure, tone, and design.
 
 ---
