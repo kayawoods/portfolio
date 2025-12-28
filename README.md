@@ -22,7 +22,7 @@ Supported Bite’s expansion from oral care into body care by contributing to de
 
 *Post-launch amplification & comparison content*  
 **[Influencer Deodorant Reel](https://www.instagram.com/reel/CVlNCOCjb7m/)**  
-**[Plastic Deodorant vs Bite Comparison Reel](https://www.instagram.com/reel/CXjZ4bODAJd/)**  
+**[Plastic Deodorant vs Bite Comparison Reel](https://www.instagram.com/tv/CXjZ4bODAJd/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)**  
 
 ---
 
