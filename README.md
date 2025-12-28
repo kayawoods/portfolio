@@ -18,7 +18,7 @@ Supported Bite’s expansion from oral care into body care by contributing to de
 *Launch rollout & social storytelling*  
 **[Deodorant Launch Announcement](https://www.instagram.com/p/CUIa_jUpPn8/)**  
 **[Deodorant Teaser Reel](https://www.instagram.com/p/CUDQDlYJXgq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)**  
-**[Product-in-Use Reel](https://www.instagram.com/reel/CU79OwwJjqT/)**  
+**[Product-in-Use Reel](https://www.instagram.com/p/CU79OwwJjqT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)**  
 
 *Post-launch amplification & comparison content*  
 **[Influencer Deodorant Reel](https://www.instagram.com/reel/CVlNCOCjb7m/)**  
