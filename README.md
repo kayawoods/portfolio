@@ -1,60 +1,100 @@
 # Kaya Woods – Portfolio
 
-A collection of writing samples, marketing campaigns, and technical projects.
+---
+
+## ✦ Product Launches & Product Storytelling 🔦
+---
+
+**[Bite Toothpaste Bits — Deodorant Launch (Body Care Expansion)](https://bitetoothpastebits.com/blogs/blog/natural-deodorant-that-works)**  
+Supported Bite’s expansion from oral care into body care by contributing to deodorant launch strategy, SEO-driven product education, and cross-functional collaboration with product and creative teams.
+
+**Product education & SEO (launch support)**  
+**[Cruelty-Free Deodorant: A Breakdown](https://bitetoothpastebits.com/blogs/blog/cruelty-free-deodorant-a-breakdown)**  
+**[Best Deodorant for Sensitive Armpits](https://bitetoothpastebits.com/blogs/blog/best-deodorant-for-sensitive-armpits)**  
+**[Deodorant Ingredients Explained](https://bitetoothpastebits.com/blogs/blog/deodorant-ingredients)**  
+
+**Launch rollout & social storytelling**  
+**[Deodorant Launch Announcement](https://www.instagram.com/p/CUIa_jUpPn8/)**  
+**[Deodorant Teaser Reel](https://www.instagram.com/reel/CUDQDlYJXgq/)**  
+**[Product-in-Use Reel](https://www.instagram.com/reel/CU79OwwJjqT/)**  
+
+**Post-launch amplification & comparison content**  
+**[Influencer Deodorant Reel](https://www.instagram.com/reel/CVlNCOCjb7m/)**  
+**[Plastic Deodorant vs Bite Comparison Reel](https://www.instagram.com/reel/CXjZ4bODAJd/)**  
 
 ---
 
-## ✍️ Writing Samples
+**[Lightning AI — Multi-Cloud GPU Marketplace Launch](https://lightning.ai/blog/multi-cloud-gpu-marketplace)**  
+Supported a B2B platform feature launch by coordinating messaging, collateral, and distribution with product and engineering teams.
 
-**[Blending Marketing and Engineering](https://kayawoods.github.io/kaya-blog/posts/blending-marketing-and-engineering)**  
-How working in growth shaped the way I write and build software, and why the best content is technical at the core.
-
-**[Prompt Engineering for Marketers](https://kayawoods.github.io/kaya-blog/posts/prompt-engineering-for-marketers)**  
-Hands-on tips and examples for writing clearer, more powerful AI prompts—from the perspective of a technical content creator.
+**Launch announcement & distribution**  
+**[Multi-Cloud GPU Marketplace — LinkedIn Announcement](https://www.linkedin.com/posts/pytorch-lightning_introducing-lightning-ais-multi-cloud-ugcPost-7363587323848007681-mRtC)**  
 
 ---
 
-## 📣 Campaigns & Content
-**[PyTorch Lightning — LinkedIn Content (June–November)](https://www.linkedin.com/company/pytorch-lightning/posts/?feedView=all)**  
-Led and produced all Lightning LinkedIn content from June through November, translating advanced AI and developer concepts into clear, engaging posts for a technical audience.
+## ✦ Campaigns & Events ◼︎
+---
 
-**[Adopt-a-Family Campaign – Raphael House](https://www.raphaelhouse.org/aaf/)**  
-Led digital content strategy and execution for an annual holiday giving campaign supporting Bay Area families experiencing homelessness. 
+**Lightning AI — Community & Product Events Program**  
+Planned and executed a repeatable events engine end to end, aligning community, product, and partner events with sales and product goals. Owned event strategy, logistics, cross-functional coordination, and on-site hosting, with sustained growth in attendance over time. Also supported high-level national conference presence in coordination with internal teams.
 
-**[Year-End Appeal – Raphael House](https://www.raphaelhouse.org/general/the-future-of-raphael-house-building-partnerships-achieving-milestones/)**  
-Co-wrote and designed a multi-channel fundraising appeal shared with tens of thousands of supporters across print and digital.
+**Community meetups & product-aligned events**  
+**[NYC Community Meetup](https://luma.com/vv9j879j)**  
+**[SF Community Meetup](https://luma.com/ifu54996)**  
+**[London Community Meetup](https://luma.com/user/LightningAI?e=evt-VtkHfV26ZyTFarv)**  
 
-**Blog Articles – Bite**  
-- [Sustainability is Important](https://bitetoothpastebits.com/blogs/blog/sustainability-is-important)  
-- [How to Load Your Deodorant](https://bitetoothpastebits.com/blogs/blog/how-to-load-your-bite-deodorant-a-quick-guide)  
-- [Squalane Benefits](https://bitetoothpastebits.com/blogs/blog/squalane-benefits)
+**Product & partner events**  
+**[Product Use Event — Mini Hackathon](https://luma.com/k649k98r)**  
+**[Partner Event](https://luma.com/sclg2ngx)**  
 
-**[Website Copy – Ursa Consultants](https://www.ursaconsultants.com/)**  
-Wrote website copy, managed WordPress backend, and contributed to creative direction (including appearing in bear costume for a brand campaign).
+---
 
-**[Kartra Site – Clear Path Methodology](https://clearpath.kartra.com/page/N6L18)**  
-Built a multi-tiered course landing page in Kartra, including structure, copy editing, and UX flow to support conversions and user clarity.
+**[Adopt-a-Family Campaign — Raphael House](https://www.raphaelhouse.org/aaf/)**  
+Led digital content strategy and execution for an annual holiday giving campaign supporting families experiencing homelessness, coordinating messaging across web, email, and internal teams.
 
-**[eBook – Clear Path Methodology](https://payhip.com/b/xDC2y)**  
-Co-designed layout, structure, and visual direction for a client-facing eBook aligned with the Clear Path course series.
+**Seasonal & year-end fundraising campaigns**  
+**[December 2024 Year-End Campaign](https://www.raphaelhouse.org/general/from-volunteer-to-lifelong-supporter/)**  
+**[Record-Breaking Fall Appeal](https://www.raphaelhouse.org/general/the-future-of-raphael-house-building-partnerships-achieving-milestones/)**  
 
-**[Instagram Reel – Zander Media](https://www.instagram.com/robinpzander/reel/CjYmdkWAH9P/)**  
-Led concept development for this short-form video, supporting founder brand narrative and high organic engagement.
+Produced and maintained campaign-related website content, donor communications, and board-facing announcements to support fundraising initiatives throughout the year.
 
-**[Instagram Reel – Zander Media](https://www.instagram.com/p/CrRpzfPAEAA/)**  
-Contributed to content strategy and tone for this performance-driven reel.
+---
 
-## 💻 Technical Projects
+## ✦ B2B & Brand Storytelling ◻︎
+---
+
+**[Ursa Consultants — Brand Commercial](https://www.youtube.com/watch?v=R5v7mdC9Ezg)**  
+Contributed to concept development, campaign strategy, and on-set production for a brand video created to clarify Ursa’s services when written materials alone were not sufficient. Helped bring the bear logo to life as part of an ongoing visual identity.
+
+**[CEO Personal Brand — Thought Leadership Reel](https://www.instagram.com/p/CrRpzfPAEAA/)**  
+Directed and contributed to the creation of a short-form reel focused on asking better questions, supporting a CEO’s personal brand and significantly outperforming typical engagement.
+
+**[CEO Personal Brand — Cold Plunge Reel](https://www.instagram.com/p/CjYmdkWAH9P/)**  
+Directed and contributed to the creation of a high-performing personal brand reel that drove visibility well above baseline engagement.
+
+---
+
+## ✦ Product Education & Long-Form Content ◇
+---
+
+**[Clear Path Methodology — eBook](https://payhip.com/b/xDC2y)**  
+Co-created and designed a long-form eBook translating the Clear Path methodology into a structured, accessible resource for clients. Led content organization, visual layout, and narrative flow to support clarity and usability.
+
+**[Clear Path Methodology — Printed Book](https://www.amazon.com/)**  
+Supported the development of a printed companion book, adapting digital content for physical format and ensuring consistency in structure, tone, and design.
+
+---
+
+## ✦ Coding Projects ⬡
+---
 
 **[Heard](https://heard-3b4a5408a0d1.herokuapp.com/chats/)**  
 Journaling app built with Django and Python. Generates tone-based responses with custom logic and keyword detection.
 
 **[Enlight](https://enlight-daily.netlify.app/)**  
-React-based journaling app with auth, category filters, and full CRUD functionality.
+React-based journaling app with authentication, category filters, and full CRUD functionality.
 
 **[Emoji Memory Game](https://kayawoods.github.io/memory-game/)**  
 Card-matching game built with vanilla JavaScript to practice logic, timers, and responsive UI.
-
----
 
 
