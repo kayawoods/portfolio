@@ -42,7 +42,7 @@ Planned and executed a repeatable events engine end to end, aligning community, 
 
 *Community meetups & product-aligned events*  
 **[NYC Community Meetup](https://luma.com/vv9j879j)**  
-**[SF Community Meetup](Chttps://luma.com/ifu54996)**  
+**[SF Community Meetup](https://luma.com/ifu54996)**  
 **[London Community Meetup](https://luma.com/user/LightningAI?e=evt-VtkHfV26ZyTFarv)**  
 
 *Product & partner events*  
