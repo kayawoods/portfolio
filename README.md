@@ -51,6 +51,17 @@ Planned and executed a repeatable events engine end to end, aligning community, 
 
 ---
 
+**[Adopt-a-Family Campaign — Raphael House](https://www.raphaelhouse.org/aaf/)**  
+Led digital content strategy and execution for an annual holiday giving campaign supporting families experiencing homelessness, coordinating messaging across web, email, and internal teams.
+
+*Seasonal & year-end fundraising campaigns*  
+**[December 2024 Year-End Campaign](https://www.raphaelhouse.org/general/from-volunteer-to-lifelong-supporter/)**  
+**[Record-Breaking Fall Appeal](https://www.raphaelhouse.org/general/the-future-of-raphael-house-building-partnerships-achieving-milestones/)**  
+
+Produced and maintained campaign-related website content, donor communications, and board-facing announcements to support fundraising initiatives throughout the year.
+
+---
+
 ## ✦ B2B & Brand Storytelling ✧
 *Clarifying complex offerings through narrative, visuals, and creative execution.*
 
@@ -68,10 +79,13 @@ Directed and contributed to the creation of a high-performing personal brand ree
 ## ✦ Product Education & Long-Form Content ◦
 *Translating methodologies into structured, usable resources.*
 
+**[Clear Path Methodology — Website](https://www.clearpathmethodology.com/)**  
+Designed and structured the Clear Path Methodology website, shaping information architecture, layout, and visual presentation to clearly communicate the framework and guide users through the material.
+
 **[Clear Path Methodology — eBook](https://payhip.com/b/xDC2y)**  
 Designed and supported the development of a long-form eBook translating the Clear Path methodology into a structured, accessible resource for clients. Led content organization, layout, and visual structure, and collaborated on shaping how the material was presented for clarity and usability. 
 
-**[Clear Path Methodology — Printed Book](https://www.amazon.com/Project-Managers-Companion-Real-World-Challenges/dp/B0FPRMQLQN)**  
+**[Clear Path Methodology — Printed Book](https://www.amazon.com/)**  
 Supported the development of a printed companion book, adapting digital content for physical format and ensuring consistency in structure, tone, and design.
 
 ---
@@ -87,6 +101,7 @@ React-based journaling app with authentication, category filters, and full CRUD 
 
 **[Emoji Memory Game](https://kayawoods.github.io/memory-game/)**  
 Card-matching game built with vanilla JavaScript to practice logic, timers, and responsive UI.
+
 
 
 
