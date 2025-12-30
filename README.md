@@ -16,8 +16,8 @@ Supported Bite’s expansion from oral care into body care by contributing to de
 **[Deodorant Ingredients Explained](https://bitetoothpastebits.com/blogs/blog/deodorant-ingredients)**  
 
 *Launch rollout & social storytelling*  
-**[Deodorant Launch Announcement](https://www.instagram.com/p/CUIa_jUpPn8/)**  
-**[Deodorant Teaser Reel](https://www.instagram.com/p/CUDQDlYJXgq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)**  
+**[Deodorant Teaser Reel](https://www.instagram.com/p/CUDQDlYJXgq/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)** 
+**[Deodorant Launch Announcement](https://www.instagram.com/p/CUIa_jUpPn8/)**   
 **[Product-in-Use Reel](https://www.instagram.com/p/CU79OwwJjqT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)**  
 
 *Post-launch amplification & comparison content*  
